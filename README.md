@@ -1,6 +1,6 @@
 # TO RUN THIS TEMPLATE:
 
-# 1: git clone https://github.com/OkarFabianTheWise/embedded-wallet
+# 1: git clone <repo>
 
 # 2: cd embedded-wallet
 
